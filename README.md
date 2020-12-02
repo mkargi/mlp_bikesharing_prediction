@@ -1,5 +1,3 @@
-## Project Overview:
-
 [//]: # (Image References)
 
 [image1]: ./assets/mlp.png "mlp"
